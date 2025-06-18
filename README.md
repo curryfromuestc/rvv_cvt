@@ -1,6 +1,6 @@
 # rvv_cvt
 
-  这是一个将fp16转换为int8的模块，用于RVV指令集。
+  这是一个将fp16转换为int8的模块，用于RISCV的向量（vector）扩展。
   实现了RTL，以及用在NEMU和spike上面测试的汇编代码。
 
 ## 在NEMU上面测试  
